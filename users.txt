@@ -1,0 +1,3 @@
+Farruxbek 73132 4096
+Faxriddin 53132 2048
+Admin 68 67108864
